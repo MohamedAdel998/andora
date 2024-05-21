@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px) {
+    .bg-img h1{
+        font-size: 50px;
+    }
+    .services .container .card-content {
+        padding-top: 20px;
+    }
+    .services .container .card-content .icon {
+        margin-bottom: 10px;
+    }
+    .work .col-sm-3{
+        padding-top:50px ;
+        padding-bottom: 50px;
+    }
+
+}
